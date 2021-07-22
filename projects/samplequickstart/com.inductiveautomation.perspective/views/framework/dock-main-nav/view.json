@@ -1779,7 +1779,7 @@
                 "fontSize": "12px",
                 "textAlign": "right"
               },
-              "text": "Theme"
+              "text": "Theme "
             },
             "type": "ia.display.label"
           },
