@@ -78,7 +78,7 @@
               "style": {
                 "classes": ""
               },
-              "target": "/layouts/scrollable/main"
+              "target": "/layouts/scrollable-canvas"
             }
           ],
           "style": {

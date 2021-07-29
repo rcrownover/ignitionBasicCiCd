@@ -41,7 +41,8 @@
       }
     },
     "/layouts/grid": {
-      "viewPath": "layouts/grid/main"
+      "viewPath": "layouts/grid/main",
+      "title": ""
     },
     "/layouts/scrollable-canvas": {
       "viewPath": "layouts/scrollable/main",
