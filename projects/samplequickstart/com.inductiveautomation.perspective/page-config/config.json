@@ -46,8 +46,9 @@
     },
     "/layouts/scrollable-canvas": {
       "viewPath": "layouts/scrollable/main",
+      "title": "",
       "docks": {
-        "cornerPriority": "left-right",
+        "cornerPriority": "top-bottom",
         "left": [
           {
             "viewPath": "layouts/scrollable/sidebar",
@@ -64,6 +65,22 @@
             "content": "push",
             "autoBreakpoint": 800,
             "handle": "show"
+          }
+        ],
+        "top": [
+          {
+            "viewPath": "framework/header",
+            "id": "",
+            "viewParams": {},
+            "size": 150,
+            "resizable": false,
+            "iconUrl": "",
+            "modal": false,
+            "show": "visible",
+            "anchor": "fixed",
+            "content": "push",
+            "autoBreakpoint": 480,
+            "handle": "hide"
           }
         ],
         "bottom": [
