@@ -67,6 +67,18 @@
                 "classes": ""
               },
               "target": "/components"
+            },
+            {
+              "enabled": true,
+              "icon": {
+                "path": ""
+              },
+              "items": [],
+              "label": "Scroll Canvas",
+              "style": {
+                "classes": ""
+              },
+              "target": "/layouts/scrollable/main"
             }
           ],
           "style": {
